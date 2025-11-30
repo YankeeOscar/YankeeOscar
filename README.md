@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Yusuf
+### Engineering Student
 
-<!--
-**YankeeOscar/YankeeOscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm intrested in Avionics System's and Mechanical System's, also currently developing a project about Radar System's.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+</p>
+
+## Support Me
+
+<a href="https://www.buymeacoffee.com/yankeeoscar737"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YankeeOscar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
